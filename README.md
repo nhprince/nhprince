@@ -31,8 +31,8 @@
 
 ### 📂 **Pinned Repositories**
 - [**SS-DDOS**](https://github.com/nhprince/SS-DDOS): Python-based DDoS testing script.
-- [**Destructive-DDOS**] (https://github.com/nhprince/Destructive-ddos): Python-based DDoS testing script.
-- [**Motio-Calculator**] (https://github.com/nhprince/Motion-Calculator): Motion problem solving website.
+- [**Destructive-DDOS**](https://github.com/nhprince/Destructive-ddos): Python-based DDoS testing script.
+- [**Motio-Calculator**](https://github.com/nhprince/Motion-Calculator): Motion problem solving website.
 
 ---
 
