@@ -38,7 +38,7 @@
 
 ### 📫 **Connect with Me**
 [![Blog](https://img.shields.io/badge/Blog-nhprince1.blogspot.com-blue)](https://nhprince1.blogspot.com)
-[![Facebook](https://img.shields.io/badge/Facebook-Profile-blue)](https://www.facebook.com/profile.php?id=61561145302548&mibextid=kFxxJD)
+[![Facebook](https://img.shields.io/badge/Facebook-Profile-blue)](https://www.facebook.com/nhprince1982)
 [![Telegram](https://img.shields.io/badge/Telegram-@NhPrince1982-blue)](https://t.me/NhPrince1982)
 
 ---
