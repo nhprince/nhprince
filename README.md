@@ -30,9 +30,9 @@
 ---
 
 ### 📂 **Pinned Repositories**
-- [**UltraDdoswebdown**](https://github.com/nhprince/UltraDdoswebdown): Tool for testing network resilience.
-- [**NUBER-info-grabber**](https://github.com/nhprince/NUBER-info-grabber): Information gathering tool for security assessments.
 - [**SS-DDOS**](https://github.com/nhprince/SS-DDOS): Python-based DDoS testing script.
+- [**Destructive-DDOS**] (https://github.com/nhprince/Destructive-ddos): Python-based DDoS testing script.
+- [**Motio-Calculator**] (https://github.com/nhprince/Motion-Calculator): Motion problem solving website.
 
 ---
 
