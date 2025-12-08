@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=200&section=header&text=Hi,%20I'm%20NH%20Prince%20Pradhan&fontSize=70&fontAlign=50&fontAlignY=40&desc=Prince&descAlign=50&descAlignY=62&descSize=30&animation=fadeIn" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=200&section=header&text=Hi,%20I'm%20NH%20Prince%20Pradhan&fontSize=70&fontAlign=50&fontAlignY=40&desc=Prince&descAlign=50&descAlignY=62&descSize=30&animation=fadeIn&fontColor=ffffff" alt="Header" />
 
   <h3 align="center">
     Full-Stack Developer &nbsp;•&nbsp; Ethical Hacker &nbsp;•&nbsp; Python Programmer
@@ -11,7 +11,7 @@
   </p>
 
   <p align="center">
-    <a href="#contact">
+    <a href="mailto:nurulhudaprince18@gmail.com">
       <img src="https://img.shields.io/badge/Contact_Me-Email-25D366?style=for-the-badge&logo=gmail&logoColor=white&color=2ea44f" alt="Email" />
     </a>
     <a href="https://nhprince.cyberslayersagency.com/">
@@ -41,13 +41,18 @@ I invite you to explore my new portfolio—a testament to my dedication to **mod
 
 ### 👨‍💻 About Me
 
-My journey began with a strong foundation in **C (Low-level programming)**, which gave me a deep understanding of memory management and system architecture. I leveraged this to master **Python**, using it professionally for automation tools, ethical hacking scripts, and AI integrations.
+👨‍💻 About Me
 
-Currently, I bridge the gap between security and development. Whether I am building complex desktop applications, dynamic web apps, or AI-integrated systems, my goal remains the same: **Delivering clean, efficient, and secure code.**
+I’m NH Prince Pradhan (Prince) — a passionate Full-Stack Developer and Software Engineer who loves building clean, scalable, and modern digital experiences. My work blends strong technical foundations with creative problem-solving, allowing me to move effortlessly between low-level logic and high-level product design.
 
-* 🔭 I’m currently working on **Advanced Django Social Platforms**.
-* 🌱 I’m currently learning **Deep Learning & Advanced Penetration Testing**.
-* 💡 I love exploring the intersection of **AI, Cybersecurity, and High-Performance Systems**.
+With a solid background in C programming, and advanced experience in Python, I create everything from automation tools to ethical hacking utilities and intelligent software systems. On the web side, I specialize in crafting dynamic, secure, and responsive applications using modern stacks, smooth UI/UX, and well-structured backend architectures.
+
+My portfolio reflects the way I build:
+fast, functional, aesthetically modern, and deeply user-focused.
+From full-featured admin panels to polished frontends, I aim to deliver software that feels as good as it performs.
+
+I’m constantly exploring new technologies — AI, cybersecurity, system automation, and advanced web engineering — with one goal:
+to turn complex ideas into powerful, elegant solutions.
 
 ---
 
@@ -71,32 +76,20 @@ Currently, I bridge the gap between security and development. Whether I am build
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **Charity Organization CMS** | Full-scale charity website with a secure admin panel for donation management. | `PHP` `SQL` `Bootstrap` |
+| **Charity Organization CMS** | Full-scale charity website with a secure admin panel for donation management. <a href="https://briddhashram.cyberslayersagency.com">| `PHP` `SQL` `Bootstrap` |
 | **Tech-Noir Portfolio** | A modern, dark-themed portfolio featuring advanced animations and responsive design. | `React` `Node.js` `CSS3` |
 | **Auto-Pentest Tool** | Python-based automation tool for ethical hacking and vulnerability scanning. | `Python` `Selenium` `Bash` |
 | **Social Connect (WIP)** | A robust social media platform built with Django handling complex user relationships. | `Django` `PostgreSQL` `JS` |
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=vision-friendly-dark&hide_border=true&bg_color=0d1117" alt="Prince's Stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=vision-friendly-dark&hide_border=true&bg_color=0d1117" alt="Top Languages" height="180"/>
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=vision-friendly-dark&hide_border=true&background=0d1117" alt="Streak Stats" />
-</div>
-
----
-
 ### 📬 Connect With Me
 
 <div align="center" id="contact"> 
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:nurulhudaprince18@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://linkedin.com/in/your-linkedin">
+  <a href="h[ttps://linkedin.com/in/nhprince](https://www.linkedin.com/in/nh-prince-prodhan-a1b46a399)">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://nhprince.cyberslayersagency.com/">
@@ -106,5 +99,5 @@ Currently, I bridge the gap between security and development. Whether I am build
 
 <br />
 <div align="center">
-  <small>© 2024 NH Prince Pradhan. All Rights Reserved.</small>
+  <small>© 2025 NH Prince Pradhan. All Rights Reserved.</small>
 </div>
