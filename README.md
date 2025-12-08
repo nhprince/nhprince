@@ -1,44 +1,110 @@
-<h1 align="center">👋 Hello, I'm NH Prince Pradhan</h1>
-<p align="center">
-  <b>Ethical Hacker | Python Programmer | Web Developer</b>
-</p>
+<div align="center">
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=200&section=header&text=Hi,%20I'm%20NH%20Prince%20Pradhan&fontSize=70&fontAlign=50&fontAlignY=40&desc=Prince&descAlign=50&descAlignY=62&descSize=30&animation=fadeIn" alt="Header" />
+
+  <h3 align="center">
+    Full-Stack Developer &nbsp;•&nbsp; Ethical Hacker &nbsp;•&nbsp; Python Programmer
+  </h3>
+
+  <p align="center">
+    <b>Building advanced, responsive, and scalable web applications with a focus on modern UI/UX and AI-powered integration.</b>
+  </p>
+
+  <p align="center">
+    <a href="#contact">
+      <img src="https://img.shields.io/badge/Contact_Me-Email-25D366?style=for-the-badge&logo=gmail&logoColor=white&color=2ea44f" alt="Email" />
+    </a>
+    <a href="https://nhprince.cyberslayersagency.com/">
+      <img src="https://img.shields.io/badge/My_Portfolio-Visit_Site-25D366?style=for-the-badge&logo=firefox&logoColor=white&color=0078D4" alt="Portfolio" />
+    </a>
+  </p>
+</div>
 
 ---
 
-### 🚀 **About Me**
-- 🛡️ **Ethical Hacker** dedicated to protecting Bangladesh and Islam.
-- 🐍 **Python Programmer** with experience in developing security tools.
-- 🌐 **Web Developer** currently learning and building web applications.
-- 🎯 Focused on continuous learning and collaboration.
+### 🚀 Portfolio Highlights
+
+I invite you to explore my new portfolio—a testament to my dedication to **modern UI/UX** and **secure backend architecture**. Designed with a "Tech-Noir" aesthetic, it showcases my capabilities in:
+
+* **Full-Stack Architecture:** Seamless integration between frontend and backend.
+* **High-End UI/UX:** Advanced animations and a dark, immersive user experience.
+* **Security First:** Implementation of secure development practices.
+* **API Integration:** Robust handling of complex data flows.
+
+<div align="center">
+  <a href="https://nhprince.cyberslayersagency.com/">
+    <img src="https://img.shields.io/badge/View_Full_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio Link" />
+  </a>
+</div>
 
 ---
 
-### 🛠️ **Tech Stack**
-- **Languages:** Python, JavaScript, HTML, CSS
-- **Frameworks:** Django, Flask
-- **Tools:** Metasploit, Nmap, Wireshark, Burp Suite
-- **Operating Systems:** Kali Linux, Tails OS
+### 👨‍💻 About Me
+
+My journey began with a strong foundation in **C (Low-level programming)**, which gave me a deep understanding of memory management and system architecture. I leveraged this to master **Python**, using it professionally for automation tools, ethical hacking scripts, and AI integrations.
+
+Currently, I bridge the gap between security and development. Whether I am building complex desktop applications, dynamic web apps, or AI-integrated systems, my goal remains the same: **Delivering clean, efficient, and secure code.**
+
+* 🔭 I’m currently working on **Advanced Django Social Platforms**.
+* 🌱 I’m currently learning **Deep Learning & Advanced Penetration Testing**.
+* 💡 I love exploring the intersection of **AI, Cybersecurity, and High-Performance Systems**.
 
 ---
 
-### 📈 **GitHub Stats**
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nhprince&show_icons=true&theme=dark" height="165">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nhprince&theme=dark" height="165">
-</p>
+### 🛠 Tech Stack & Skills
+
+<div align="center">
+
+| **Frontend & UI/UX** | **Backend & Database** | **Tools & Security** |
+|:---:|:---:|:---:|
+| ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) | ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) | ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) |
+| ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) | ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white) | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) |
+| ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) | ![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) | ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white) |
+| ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) | ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) | ![Metasploit](https://img.shields.io/badge/Metasploit-333333?style=for-the-badge&logo=metasploit&logoColor=white) |
+| ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white) |
+
+</div>
 
 ---
 
-### 📂 **Pinned Repositories**
-- [**SS-DDOS**](https://github.com/nhprince/SS-DDOS): Python-based DDoS testing script.
-- [**Destructive-DDOS**](https://github.com/nhprince/Destructive-ddos): Python-based DDoS testing script.
-- [**Motio-Calculator**](https://github.com/nhprince/Motion-Calculator): Motion problem solving website.
+### 🏆 Featured Projects
+
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| **Charity Organization CMS** | Full-scale charity website with a secure admin panel for donation management. | `PHP` `SQL` `Bootstrap` |
+| **Tech-Noir Portfolio** | A modern, dark-themed portfolio featuring advanced animations and responsive design. | `React` `Node.js` `CSS3` |
+| **Auto-Pentest Tool** | Python-based automation tool for ethical hacking and vulnerability scanning. | `Python` `Selenium` `Bash` |
+| **Social Connect (WIP)** | A robust social media platform built with Django handling complex user relationships. | `Django` `PostgreSQL` `JS` |
 
 ---
 
-### 📫 **Connect with Me**
-[![Blog](https://img.shields.io/badge/Blog-nhprince1.blogspot.com-blue)](https://nhprince1.blogspot.com)
-[![Facebook](https://img.shields.io/badge/Facebook-Profile-blue)](https://www.facebook.com/nhprince1982)
-[![Telegram](https://img.shields.io/badge/Telegram-@NhPrince1982-blue)](https://t.me/NhPrince1982)
+### 📊 GitHub Stats
+
+<div align="center">
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=vision-friendly-dark&hide_border=true&bg_color=0d1117" alt="Prince's Stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=vision-friendly-dark&hide_border=true&bg_color=0d1117" alt="Top Languages" height="180"/>
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=vision-friendly-dark&hide_border=true&background=0d1117" alt="Streak Stats" />
+</div>
 
 ---
+
+### 📬 Connect With Me
+
+<div align="center" id="contact"> 
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://linkedin.com/in/your-linkedin">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://nhprince.cyberslayersagency.com/">
+    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Website" />
+  </a>
+</div>
+
+<br />
+<div align="center">
+  <small>© 2024 NH Prince Pradhan. All Rights Reserved.</small>
+</div>
