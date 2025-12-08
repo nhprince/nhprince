@@ -87,9 +87,9 @@ to turn complex ideas into powerful, elegant solutions.
   <a href="mailto:nurulhudaprince18@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="[https://www.linkedin.com/in/nh-prince-prodhan-a1b46a399](https://www.linkedin.com/in/nh-prince-prodhan-a1b46a399)">
+  <a href="https://www.linkedin.com/in/nh-prince-prodhan-a1b46a399">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
+</a>
   <a href="https://nhprince.cyberslayersagency.com/">
     <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Website" />
   </a>
