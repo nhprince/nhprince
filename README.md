@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=200&section=header&text=Hi,%20I'm%20NH%20Prince%20Pradhan&fontSize=70&fontAlign=50&fontAlignY=40&desc=Prince&descAlign=50&descAlignY=62&descSize=30&animation=fadeIn&fontColor=ffffff" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=200&section=header&text=Hi,%20I'm%20NH%20Prince%20Pradhan&fontSize=70&fontAlign=50&fontAlignY=40&desc={Prince}&descAlign=50&descAlignY=62&descSize=30&animation=fadeIn&fontColor=ffffff" alt="Header" />
 
   <h3 align="center">
     Full-Stack Developer &nbsp;•&nbsp; Ethical Hacker &nbsp;•&nbsp; Python Programmer
@@ -40,8 +40,6 @@ I invite you to explore my new portfolio—a testament to my dedication to **mod
 ---
 
 ### 👨‍💻 About Me
-
-👨‍💻 About Me
 
 I’m NH Prince Pradhan (Prince) — a passionate Full-Stack Developer and Software Engineer who loves building clean, scalable, and modern digital experiences. My work blends strong technical foundations with creative problem-solving, allowing me to move effortlessly between low-level logic and high-level product design.
 
@@ -89,7 +87,7 @@ to turn complex ideas into powerful, elegant solutions.
   <a href="mailto:nurulhudaprince18@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="h[ttps://linkedin.com/in/nhprince](https://www.linkedin.com/in/nh-prince-prodhan-a1b46a399)">
+  <a href="[https://www.linkedin.com/in/nh-prince-prodhan-a1b46a399](https://www.linkedin.com/in/nh-prince-prodhan-a1b46a399)">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://nhprince.cyberslayersagency.com/">
