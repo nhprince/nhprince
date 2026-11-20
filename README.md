@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1400&color=FFD93D&center=true&vCenter=true&width=700&height=60&lines=Hi%2C+I'm+Nurul+Huda+Prince;aka+NH+Prince;Full-Stack+Developer;I+build+web+apps+end+to+end" alt="Typing intro" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1400&color=FFD93D&center=true&vCenter=true&width=700&height=60&lines=Hi%2C+I%27m+Nurul+Huda+Prince;aka+NH+Prince;Full-Stack+Developer;I+build+web+apps+end+to+end" alt="Typing intro" />
 
-**Full-Stack Developer · Cloudflare · Open Source**
+**Full-Stack Developer · From first sketch to launch**
 
 *Beautiful design on the outside, bulletproof logic underneath.*
 
